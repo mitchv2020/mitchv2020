@@ -1,5 +1,6 @@
-## hello there
+# Hello there
 
+Im just another random guy on the internet which likes to use computers. 
 
 
 <!--
