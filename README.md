@@ -13,7 +13,7 @@ I know batch the most but im still not that great with it. I have started learni
 
 If you want to message me here is my Discord: [mitchv2020#2538](https://discord.com/users/330282620833366016)
 
-thats basically all i have to say to yeah. cya!
+thats basically all i have to say so yeah. cya!
 
 <!--
 **mitchv2020/mitchv2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
