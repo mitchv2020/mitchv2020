@@ -7,13 +7,13 @@ For now im just working on [QuestToolbox](https://github.com/mitchv2020/QuestToo
 The coding languages i know so far:
 
     - Batch
-    - Python (i dont know a whole lot but i have started learning it recently)
+    - Python (i dont know a whole lot)
 
-I know batch the most but im still not that great with it lol. I have started learning python in school recently so hopefully i get better at that.
+I know batch the most but im still not that great with it. I have started learning python in school recently so hopefully i get better at that.
 
 If you want to message me here is my Discord: mitchv2020#2538
 
-thats basically all i have to say to yeah.
+thats basically all i have to say to yeah. cya!
 
 <!--
 **mitchv2020/mitchv2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
