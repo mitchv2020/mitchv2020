@@ -1,8 +1,15 @@
 # Hello there
 
-Im just another random guy on the internet which likes to use computers. 
+Im just another random guy on the internet which likes to use computers and play games. I dont have that much coding experience but i have made a QuestToolbox with a friend if you want to check that out [here](https://github.com/mitchv2020/QuestToolbox/releases)
 
+The coding languages i know so far:
 
+- Batch
+- Python (i dont know a whole lot but i have started learning it recently)
+
+I know batch the most but im still not that great with it lol.
+
+thats basically all i have to say to yeah.
 <!--
 **mitchv2020/mitchv2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
