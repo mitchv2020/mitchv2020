@@ -1,6 +1,6 @@
 # Hello there
 
-Im just another random guy on the internet which likes to use computers and play games. I dont have that much coding experience but i have made a QuestToolbox with a friend if you want to check that out [here](https://github.com/mitchv2020/QuestToolbox/releases)
+Im just another random dude on the internet which likes to use computers and play games. I dont have that much coding experience but i have made a QuestToolbox with a friend if you want to check that out [here](https://github.com/mitchv2020/QuestToolbox/releases)
 
 For now im just working on [QuestToolbox](https://github.com/mitchv2020/QuestToolbox/releases) until i know what else to do or if i learn to code better
 
