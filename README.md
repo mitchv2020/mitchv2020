@@ -2,12 +2,16 @@
 
 Im just another random guy on the internet which likes to use computers and play games. I dont have that much coding experience but i have made a QuestToolbox with a friend if you want to check that out [here](https://github.com/mitchv2020/QuestToolbox/releases)
 
+For now im just working on QuestToolbox until i know what else to do
+
 The coding languages i know so far:
 
 - Batch
 - Python (i dont know a whole lot but i have started learning it recently)
 
-I know batch the most but im still not that great with it lol.
+I know batch the most but im still not that great with it lol. I have started learning python in school recently so hopefully i get better at that.
+
+If you want to message me heres my Discord: mitchv2020#2538
 
 thats basically all i have to say to yeah.
 <!--
