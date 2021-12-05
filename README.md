@@ -8,10 +8,11 @@ The coding languages i know so far:
 
     - Batch
     - Python (i dont know a whole lot)
+    - HTML/CSS (basics)
 
 I know batch the most but im still not that great with it. I have started learning python in school recently so hopefully i get better at that.
 
-If you want to message me here is my Discord: [mitchv2020#2538](https://discord.com/users/330282620833366016)
+If you want to message me here is my Discord: [mitchv2020#5697](https://discord.com/users/330282620833366016)
 
 thats basically all i have to say so yeah. cya!
 
