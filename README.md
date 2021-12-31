@@ -7,8 +7,8 @@ For now im just working on [QuestToolbox](https://github.com/mitchv2020/QuestToo
 The coding languages i know so far:
 
     - Batch
-    - Python (i dont know a whole lot)
-    - HTML/CSS (basics)
+    - Python
+    - HTML/CSS
 
 I know batch the most but im still not that great with it. I have started learning python in school recently so hopefully i get better at that.
 
