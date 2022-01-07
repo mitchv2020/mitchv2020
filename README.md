@@ -9,6 +9,7 @@ The coding languages i know so far:
     - Batch
     - Python
     - HTML/CSS
+    - Trying to learn C#
 
 I know batch the most but im still not that great with it. I have started learning python in school recently so hopefully i get better at that.
 
