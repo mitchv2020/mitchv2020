@@ -1,23 +1,18 @@
-# Hello there
+## Hello there, I'm mitchv2020!
 
-Im just another random dude on the internet which likes to use computers and play games. I dont have that much coding experience but i have made a QuestToolbox with a friend if you want to check that out [here](https://github.com/mitchv2020/QuestToolbox/releases)
+Im just another random dude on the internet which likes to use computers and play games. I dont have that much coding experience but i have made QuestToolbox with a friend if you want to check that out [here](https://github.com/mitchv2020/QuestToolbox/releases)
 
-For now im just working on [QuestToolbox](https://github.com/mitchv2020/QuestToolbox/releases) until i know what else to do or if i learn to code better
+Socials: 
 
-The coding languages i know so far:
+[Discord](https://discord.com/users/330282620833366016) | [Twitter](https://twitter.com/mitchv2020) | [YouTube](https://www.youtube.com/channel/UCZW2Nxa-fCm6V8bvDeF0Fyg)
 
-    - Batch
-    - Python
-    - HTML/CSS
-    - Trying to learn C#
+Languages: Batch / HTML / CSS
 
-I know batch the most but im still not that great with it. I have started learning python in school recently so hopefully i get better at that.
+Currently Learning: JavaScript
 
-I am currently also working on some simple VRChat avatars with LordNikon [Here](https://www.fiverr.com/mitchv2020/make-simple-vrchat-avatars)
+![mitchv2020's GitHub stats](https://github-readme-stats.vercel.app/api?username=mitchv2020&show_icons=true&theme=radical)
 
 If you want to message me here is my Discord: [mitchv2020#5697](https://discord.com/users/330282620833366016)
-
-thats basically all i have to say so yeah. cya!
 
 <!--
 **mitchv2020/mitchv2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
