@@ -4,7 +4,7 @@ Im just another random dude on the internet which likes to use computers and pla
 
 Socials: 
 
-[Discord](https://discord.com/users/330282620833366016) | [Twitter](https://twitter.com/mitchv2020) | [YouTube](https://www.youtube.com/channel/UCZW2Nxa-fCm6V8bvDeF0Fyg)
+[Discord](https://discord.com/users/330282620833366016) | [Twitter](https://twitter.com/mitchv2020) | [YouTube](https://www.youtube.com/channel/UCZW2Nxa-fCm6V8bvDeF0Fyg) | [Twitch.tv](https://twitch.tv/mitchv2020)
 
 Languages: Batch / HTML / CSS
 
