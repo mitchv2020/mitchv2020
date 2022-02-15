@@ -2,9 +2,7 @@
 
 Im just another random dude on the internet which likes to use computers and play games. I dont have that much coding experience but i have made QuestToolbox with a friend if you want to check that out [here](https://github.com/mitchv2020/QuestToolbox/releases)
 
-Socials: 
-
-[Discord](https://discord.com/users/330282620833366016) | [Twitter](https://twitter.com/mitchv2020) | [YouTube](https://www.youtube.com/channel/UCZW2Nxa-fCm6V8bvDeF0Fyg) | [Twitch.tv](https://twitch.tv/mitchv2020)
+Socials - [Discord](https://discord.com/users/330282620833366016) | [Twitter](https://twitter.com/mitchv2020) | [YouTube](https://www.youtube.com/channel/UCZW2Nxa-fCm6V8bvDeF0Fyg) | [Twitch.tv](https://twitch.tv/mitchv2020)
 
 Languages: Batch / HTML / CSS
 
