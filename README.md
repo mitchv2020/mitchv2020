@@ -6,7 +6,7 @@ Socials - [Discord](https://discord.com/users/330282620833366016) | [Twitter](ht
 
 Languages: Batch / HTML / CSS
 
-Currently Learning: JavaScript
+Currently Learning: C++
 
 ![mitchv2020's GitHub stats](https://github-readme-stats.vercel.app/api?username=mitchv2020&show_icons=true&theme=radical)
 
